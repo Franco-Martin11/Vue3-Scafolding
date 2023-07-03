@@ -1,6 +1,6 @@
 # Vue-Scafolding
 
-This template should help get you started developing with **Vue 3 /Typescript** in Vite with Vue-Router, Pinia, ApexCharts, Tailwind, Postcss, ViteTest & EsLint/Prettier.
+This template should help get you started developing with **Vue 3 /Typescript** in Vite with Vue-Router, Pinia, ApexCharts, Tailwind, Postcss, ViteTest, Axios & EsLint/Prettier.
 
 ## Recommended IDE Setup
 
